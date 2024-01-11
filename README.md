@@ -1,41 +1,37 @@
 # Hello, I'm Marcelo! 👋
 
 ## 🚀 About Me
-I'm a dedicated Software Quality Assurance expert with a passion for enhancing team performance and process efficiency. My professional journey is marked by a strong commitment to knowledge sharing and implementing best practices. I believe in the power of a positive company culture driven by transparent and effective processes.
+I'm a dedicated Software Quality Assurance expert, passionate about enhancing team and process efficiency. I believe in a positive company culture driven by transparent and effective processes.
 
-🔍 **Focused on Quality**: I am devoted to implementing processes that enhance outcomes, reduce the need for rework, and conserve resources. I continuously refine these processes through evaluation and adjustments.
+🔍 **Focused on Quality**: Implementing processes for better outcomes, reduced rework, and resource conservation.
 
-💡 **Tech Enthusiast**: I am deeply passionate about technology and constantly engage in learning and disseminating insights about development and quality assurance methodologies. My advocacy for agile practices is tailored to each project's unique needs, ensuring transparency and clarity in project vision.
+💡 **Tech Enthusiast**: Engaging in learning and sharing insights about development and quality assurance methodologies.
 
-🌐 **My Insights**: Explore my thoughts on leveraging quality tools in e-commerce (in Portuguese): [Quality Tools in E-Commerce](https://www.ecommercebrasil.com.br/noticias/webjump-ferramenta-de-qualidade-pode-ajudar-o-seu-e-commerce).
+🌐 **My Insights**: [Quality Tools in E-Commerce](https://www.ecommercebrasil.com.br/noticias/webjump-ferramenta-de-qualidade-pode-ajudar-o-seu-e-commerce).
 
 ## 🛠 Skills
-
-### Web & Mobile Testing
-- Advanced manual and automated testing.
-- Tools: Capybara, Cucumber, Selenium, Appium, Cypress, Playwright.
-
-### API Testing
-- Designing and implementing tests for REST APIs.
-- Tools: Postman/Newman, Httparty/Rspec.
-
-### Performance Testing
-- Expertise in K6, Apache JMeter, Taurus, Blazemeter.
-
-### Database Management
-- MySQL and NoSQL databases.
-
-### Infrastructure & Development
-- Linux system administration, cloud solutions on AWS and Azure.
-- CI/CD pipelines with Codefresh, Jenkins, ArgoCD.
-- Infrastructure as Code with Terraform.
+- **Web & Mobile Testing**: Advanced in manual and automated testing.
+- **API Testing**: REST API test design and implementation.
+- **Performance Testing**: Proficient in K6, Apache JMeter.
+- **Database Management**: MySQL and NoSQL databases.
+- **Infrastructure & Development**: Linux, AWS, Azure, CI/CD, Terraform.
 
 ### Additional Technical Proficiencies
 - HTML, CSS, Java.
 
+## 💼 My Ideal Company
+- **Innovative and Quality-Driven Environment**: A company that leads with innovation, prioritizes high-quality outputs, and consistently seeks to improve and evolve in its field.
+- **Collaborative and Inclusive Culture**: A workplace that values teamwork and diverse perspectives, fostering a collaborative environment where everyone's ideas are heard and valued.
+- **Employee Growth and Professional Development**: An organization that invests in its employees' growth, offering opportunities for continuous learning and career advancement.
+- **Balance Between Autonomy and Teamwork**: A role that strikes the right balance between independent project management and collaborative teamwork, allowing for both personal initiative and collective success.
+- **Ethical and Impactful**: A company with a strong ethical foundation, committed to making a positive impact in its industry or the community.
+- **Dynamic and Adaptable**: An environment that is dynamic and flexible, encouraging adaptability and innovation in the face of industry changes and new challenges.
+- **Learning-Friendly and Transparent**: A culture that encourages learning from mistakes, fosters open communication about errors and supports a no-fear approach to taking calculated risks.
+- 
+
 ## 📫 How to Reach Me
-[![Linkedin: marcelo-monteiro](https://img.shields.io/badge/-marcelomonteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-monteiro-7887666b/)](https://www.linkedin.com/in/marcelo-monteiro-7887666b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marcelov8/)
+[LinkedIn](https://www.linkedin.com/in/marcelo-monteiro-7887666b/)
+[Instagram](https://www.instagram.com/marcelov8/)
 
 ---
 
