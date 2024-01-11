@@ -27,7 +27,7 @@ I'm a dedicated Software Quality Assurance expert, passionate about enhancing te
 - **Ethical and Impactful**: A company with a strong ethical foundation, committed to making a positive impact in its industry or the community.
 - **Dynamic and Adaptable**: An environment that is dynamic and flexible, encouraging adaptability and innovation in the face of industry changes and new challenges.
 - **Learning-Friendly and Transparent**: A culture that encourages learning from mistakes, fosters open communication about errors and supports a no-fear approach to taking calculated risks.
-- 
+
 
 ## 📫 How to Reach Me
 [LinkedIn](https://www.linkedin.com/in/marcelo-monteiro-7887666b/)
